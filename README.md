@@ -2,7 +2,7 @@
 
 Backend service built with NestJs 10. Includes unit tests to ensure robustness and efficiency.
 
-## Installation
+## Installations
 
 1. Clone the repository and then install required dependencies
 
